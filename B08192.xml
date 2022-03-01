@@ -1,0 +1,1193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth boke of Virgill, intreating of the loue betweene Aeneas and Dido, translated into English, and drawne into a straũge metre by Henrye late Earle of Surrey, worthy to be embraced..</title>
+            <title>Aeneis. Liber 4. English</title>
+            <author>Virgil.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1554</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08192</idno>
+            <idno type="STC">STC 24810A.5</idno>
+            <idno type="STC">ESTC S125720</idno>
+            <idno type="EEBO-CITATION">71305212</idno>
+            <idno type="OCLC">ocm 71305212</idno>
+            <idno type="VID">183936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2213:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth boke of Virgill, intreating of the loue betweene Aeneas and Dido, translated into English, and drawne into a straũge metre by Henrye late Earle of Surrey, worthy to be embraced..</title>
+                  <title>Aeneis. Liber 4. English</title>
+                  <author>Virgil.</author>
+                  <author>Surrey, Henry Howard, Earl of, 1517?-1547.</author>
+               </titleStmt>
+               <extent>[35] p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Day, for William Awen, dwellyng in Pater noster rowe, at the sygne of the Cocke.,</publisher>
+                  <pubPlace>Jmprinted at London :</pubPlace>
+                  <date>[1554].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.).</note>
+                  <note>Title within illustrated border (not found in McK. &amp; Ferg.).</note>
+                  <note>Signatures: [pi]⁴ B-D⁴ E².</note>
+                  <note>"Cum priuilegio ad imprimendum solum."--T.p.</note>
+                  <note>Imperfect: faded spots, print bleeding and show-through.</note>
+                  <note>Reproduction of original in: Carl H. Pforzheimer Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dido (Legendary character) --  Poetry --  Early works to 1800.</term>
+               <term>Aeneas (Legendary character) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183936:1"/>
+            <pb facs="tcp:183936:1"/>
+            <p>The fourth boke of Virgill, intreating of the loue betwene Aeneas &amp; Dido, tranſlated into Engliſh, and drawne into a ſtrau<g ref="char:cmbAbbrStroke">̄</g>ge metre by Henrye late Earle of Surrey, worthy to be embraced.</p>
+            <p>¶ Imprinted at London by Iohn Day, for William Awen, dwellyng in Pater noſter rowe, at the ſygne of the Cocke.</p>
+            <floatingText xml:lang="lat" type="license">
+               <body>
+                  <p>☞ <hi>Cum priuilegio ad im<g ref="char:EOLhyphen"/>primendum ſolum.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>ornamental woodcut border (not in McKerrow)</figDesc>
+            </figure>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183936:2"/>
+            <pb facs="tcp:183936:2"/>
+            <head>¶ To the moſt puiſſant prince Thomas Duke of Norfolke, Wyllyam Awen hys moſt humble Oratour wyſheth perpe<g ref="char:EOLhyphen"/>tual health and felicitie</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen it chau<g ref="char:cmbAbbrStroke">̄</g>ced a copye of thys part of Virgill, traunſlated by your graces father (right hono<g ref="char:EOLunhyphen"/>rable Lord) by the meanes of a friend of myne, to come to my ha<g ref="char:cmbAbbrStroke">̄</g>ds: I not onely held y<hi rend="sup">e</hi> ſame as no ſmal treaſure, becauſe I had heard it, lyke as others the monume<g ref="char:cmbAbbrStroke">̄</g>tes of that noble wyt of hys, whych was in thys kynde no doute incompa<g ref="char:EOLhyphen"/>rable, of al men to be comme<g ref="char:cmbAbbrStroke">̄</g>ded: but alſo my deſyre was great, at one time or other, yf by a meanes con<g ref="char:EOLhyphen"/>uenient I might, to publyſhe the ſame: and that the rather, becauſe I coulde vnderſtand of no man that had a copye thereof, but he was more wyllyng the ſame ſhould be kept as a priuate treaſure in the han<g ref="char:EOLhyphen"/>des of a fewe, then publyſhed to the common profyt and delectacion of many. But foraſmuch as my co<g ref="char:EOLhyphen"/>py although it were taken of one, wrytten wyth the authors owne hande, was not yet ſo certaine, that it myghte be thought of it ſelfe ſufficient to be publy<g ref="char:EOLhyphen"/>ſhed, partly for that the writer had not tyme ſufficie<g ref="char:cmbAbbrStroke">̄</g>t to the due examinacion thereof, after it was wryt<g ref="char:EOLhyphen"/>ten, and alſo becauſe the reding of the authors copy it ſelfe, by reaſon of ſpeedye wrytyng thereof was ſomewhat doutful: for theſe cauſes, gettyng two o<g ref="char:EOLhyphen"/>ther copies alſo, written out by other men, I cauſed
+<pb facs="tcp:183936:3"/>myne to be conferred with them both, and of theym y<hi rend="sup">t</hi> to be receiued, as moſt worthy to be alowed, whych was bothe to the latyn moſte agreable, and alſo beſt ſtanding with the dignity of that kynde of mytre.</p>
+            <p>And this my doing I truſt no honeſt man ſhall be able to reproue, but rather it ſhall be an occaſion, to ſuch as fauour the monimentes of ſo noble a wyt, if they haue a better copy to publyſhe the ſame. As for the vnthankeful, I paſſe not how much they repyne at my dede: ſo that I may vnderſtand your grace to take in good part my good wyl herein. Which if you do (as I nothyng doute of your graces goodneſſe) it ſhal no lytle encourage me hereafter to bring other hys workes to light, as they ſhal come to my hands. Thus beſeching our Lord god to co<g ref="char:cmbAbbrStroke">̄</g>tinue your grace in welth and increaſe of vertue, I wyſhe you hartelye well to fare.</p>
+            <closer>
+               <signed>¶ Your graces moſt humble Oratour Wyllyam Owen.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:183936:3"/>
+            <head>¶ The occaſion of the loue betwene Eliſſa the Quene of Cartage, after called Dido, and the Troian lord Aeneas, briefely gathered out of Virgyll.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Eneas a man of great prowes, and one that had the Gods, his parentes and cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>trey in muche reuerence and loue, ouer<g ref="char:EOLhyphen"/>preſſed wyth cruel Iunos wrathe, in ſee<g ref="char:EOLhyphen"/>king Italy, roued vpon the ſeas of Sicil, tyl after much toſſyng, at the laſt he arry<g ref="char:EOLhyphen"/>ued in the coaſtes of Libia: not knowyng the ſame what countrey it was. But ha<g ref="char:EOLhyphen"/>uyng with hym hys aſſured companyon Achates, he learned by hys mother, that the Lady Eliſſa was Queue thereof. Af<g ref="char:EOLhyphen"/>ter, conneighed vnder acloude he came to the cytye of Cartage, where the Quene was reſident: and there meeting with others of his compa<g ref="char:EOLunhyphen"/>nye, who by the lyke fortune were dryuen into the ſame coſtes, he was of the bountiful Quene receiued with much honour. To hys compa<g ref="char:EOLhyphen"/>nye alſo whyche were vppon the ſea coſtes, ſhe ſent .xx. bullockes .C. porkes .C. lambes together with theyr dammes, and thereto of wyne great plenty: gyftes fyt for theyr entertainment, as that tyme, and as theyr neceſſity aſked. The whyche Achates, ſent by Aeneas to the ſea, preſented to them, and at his returning brought with him yong Iulus Aeneas ſonne, who by hys fathers commaundement ſhoulde for the Troians part lykewyſe preſent to the Quene certayne ryche gyftes, ornamentes of the fayre Elen, which they had got from the Grecians handes at theyr ſpoyle of Troy. But the Goddes Venus, mother to Aeneas, who alwayes douted what wold be the end of this her ſo<g ref="char:cmbAbbrStroke">̄</g>nes ſo great entertainment in a ſtraunge land, thought that thus ſhe ſhuld beſt make all thynges ſure, yf ſhe myghte by any meanes bryng the Quene in loue with hym. Whych thyng to do ſhe wrought thys feat, ſhe byds her ſonne Cupid (who was the God of Loue) addreſſe hym ſelfe in the lykenes of Iulus to go preſent the gyftes, and in daliaunce wyth the Quene priuely to inſpyre her with vnquenched fyre of loue. The childe therefore Iulus commyng with giftes to be to the Quene preſented, ſhe brought on ſleepe, &amp; ſo carying him in her lappe into the
+<pb facs="tcp:183936:4"/>mount Idalium, left hym there amongſt the floures. In thys meane tyme Cupid (as hys mother had bydden hym before) tooke vpon hym the ſhape of Iulus, goeth lyke to him accompanied with Achates, ca<g ref="char:EOLhyphen"/>ryeth the giftes, and in ſtede of Iulus preſe<g ref="char:cmbAbbrStroke">̄</g>teth the ſame to the quene. She ſetteth her down to meate, cauſeth the Troians to ſyt down. The Tirians come together, whyche alſo ſyt downe, commaunded by her. They wonder at Aeneas hys gyftes, and at the goodly boy, who<g ref="char:cmbAbbrStroke">̄</g> they toke to be Iulus: but of al others, vnhappy Dido could neuer inough be hold eyther the ſwete boye, or yet the preſentes, but ſtyl more &amp; more is ſhe enflamed, &amp; what wyth the gyftes, and with the chyld maruey<g ref="char:EOLhyphen"/>louſly ſtyred. This child after he had hanged in the necke of Aeneas, ſo to begyle the loue of hys fayned father, ſetteth vpon the Quene. He goth to her: ſhe is with him maturiloſly rauiſhed, ſhe imbraſeth hym, ſhe takes him in her lap, and thus with kyſſyng and colling, ſhe deligh<g ref="char:EOLunhyphen"/>teth her ſelfe. But the ſuttle boy Cupid, remembring what his mother had ſayd to hym, amongſt theſe kyſſes breathed fyre into the Quenes breſt, whych nought but death it ſelfe, or ſcarſe that, could quench. He begyns to make her by lytle and lytle to forgeite quite her former huſ<g ref="char:EOLhyphen"/>band Sichens: he ſtyrs vp her mynde ſo loth to be kindled, &amp; aſſanltes that hart of hyrs, out of vſe wyth loue. After meate, the bord the bords remoued, the mighty boles of golde ſet wyth ſtones, were plyed wyth the wyne, drynkyng there was, quaſſyng one to an other, wyth great myrth and gladnes. The Lord Inpas wyth hys long treſſes, kyng of Affricke, played on hys gilde<g ref="char:cmbAbbrStroke">̄</g> Lute, ſynging of the courſe of the ſunne, the Mooue, of the original of mankynde, of brute, of water and fyre, of the ryſyng of ſygnes, of the ſhortueſſe of dayes, and lengthe of the nightes. The Tyrians make hu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fyng chere, the Troians do the lyke. Selye Dido alſo paſſyng the uyghte wyth dyuers talke, drynckes a draught of loue (alas) al to deepe. Many a queſtion ſhe demaundes of the kyng Priam, many a one of Hector, in what armour cam Vulcan, what maner horſes Diomedes were: yea, ſhe deſires her new gueſt be gynning at thoriginal of the matter, to tel her of the Greekes diſceite, of the Troians chaunce, of hys aduentures by ſea and lande, in that hys ſeuen yeares trauayle. Whych thynges by that tyme he had told from the begynning to the ende, ſhe was ſo enflamed in loue, that ſhee<g ref="char:EOLunhyphen"/>ne will what wai to take. And thus aroſe the loue betwene Dido, and Aeneas, whych is at large expreſſed in Virgils fourth booke of the Aenedes.</p>
+            <p>(⁂)</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:183936:4"/>
+            <head>¶ The .iiii. booke of Virgill.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>Vt nowe the wounded Quene wyth heuy care,</l>
+               <l>Throughout the vaines ſhe nouriſheth the plai,</l>
+               <l>Surpriſed with blynde flame: and to hyr mynd.</l>
+               <l>Gan eke reſort the prowes of the man,</l>
+               <l>And honour of hys race: whyles in her breſt</l>
+               <l>Amprinted ſtacke his wordes, and pyctures forme:</l>
+               <l>Ne to her lyms care graunteth quyet reſt.</l>
+               <l>The next morrow, wyth Pheebus laumpe the earth</l>
+               <l>Alyghtned elere, and eke the dawnyng daye</l>
+               <l>The ſhadowes darke gan from the pole remoue:</l>
+               <l>When all vnſounde her ſyſter of lyke mynde</l>
+               <l>Thus ſpake ſhe to: O ſyſter Anne, what dreames</l>
+               <l>Be theſe, that me tormented thus afray?</l>
+               <l>What newe gueſt is thys, that to our realme is come:</l>
+               <l>What one of chere? how ſtout of hart in armes?</l>
+               <l>Truely I thynke (ne vayne is my beliefe)</l>
+               <l>Of Goddiſh race ſome offpryng ſhould he be:</l>
+               <l>Cowardry notes hartes ſwarued out of kynde.</l>
+               <l>He dryuen (Lord) wyth howe hard deſteny:</l>
+               <l>What battayles eke atchyued dyd he tell?</l>
+               <l>But that my mynde is fyxte vnmourably,</l>
+               <l>Neuer wyth wyght in wedlocke aye to ioyne:</l>
+               <l>Sythe my fyrſt loue me left by death diſſeuered,</l>
+               <l>If geniall brands, and bedde me lothed not,</l>
+               <l>To thys one faulte perchaunce yet myght I yelde.</l>
+               <l>Ayme, for I graunt, ſythe wretched Sicheus death</l>
+               <l>My ſpouſe and houſe wyth brothers fewyde defyled,</l>
+               <l>Thys onely man he hath my ſences bent,</l>
+               <l>And prycked foorth my mynde, that gan to ſlyde,</l>
+               <l>Now feelyngly I taſte the ſteppes of myne olde flame.</l>
+               <l>But fyrſt I wyſhe, the earth me ſwalowe downe,</l>
+               <l>Wyth thunder, or the myghty Lord me ſende</l>
+               <pb facs="tcp:183936:5"/>
+               <l>To the pale goſtes of hel, and darkenes deepe:</l>
+               <l>Or I thee ſtayne, ſhamefaſtnes, or thy lawe.</l>
+               <l>He that wyth me fyrſt coppled, tooke awaye</l>
+               <l>My loue with hym, ſtyll enioye he in graue.</l>
+               <l>Thus dyd ſhe ſay, and wyth ſuppryſed teares</l>
+               <l>Bayned her breſt. Whereto Anne thus replyed:</l>
+               <l>O ſyſter, dearer beloued then the lyght:</l>
+               <l>Thy youth alone in playnt ſtyl wylt thou ſpyll</l>
+               <l>That chyldren ſweete, nor Venus gyftes doeſt knowe?</l>
+               <l>Doth duſt (thynkeſt thou) mynde thys? or graued goſtes?</l>
+               <l>Tyme of thy doole, thy ſpoule newe dead, I graunt.</l>
+               <l>None myght thee moue: Iarbas not to feere,</l>
+               <l>The Lybian kyng dyſpiſed yet by thee:</l>
+               <l>And other prynces mo: whom the ryche ſoyle</l>
+               <l>Of Affrike breedes, in honours tryumphant,</l>
+               <l>Wylt thou alſo wythſtande the loue, that lykes thee?</l>
+               <l>On thys ſyde, in the Getules towne beholde,</l>
+               <l>A people bolde vnuanquyſhed in warre,</l>
+               <l>And the vndaunted Numydes compaſſe thee,</l>
+               <l>Wyth Syrtes, the vnfriendlye harbroughe:</l>
+               <l>On thother hande, a deſerte realme for thurſte</l>
+               <l>The Barceans, whoſe furye ſtretches wyde.</l>
+               <l>What ſhall I touche the warres that moue from Tyre?</l>
+               <l>Or yet thy brothers threates?</l>
+               <l>By Gods purueyaunce it blewe, and Iunos helpe</l>
+               <l>The Troiaynes ſhyppes (I thynke) to runne this courſe</l>
+               <l>Syſter, what towne ſhalt thou ſee thys become?</l>
+               <l>Thro ſuche allye howe ſhall our kyngdome ryſe?</l>
+               <l>And by the ayde of Troiane armes howe great?</l>
+               <l>Howe many wayes ſhall Cartages glorye growe?</l>
+               <l>Thou onely nowe beſeche the Gods of grace</l>
+               <l>By ſacrefyce: whych ended, to thy houſe</l>
+               <l>Receyue hym: and forge cauſes of abode:</l>
+               <pb facs="tcp:183936:5"/>
+               <l>Whyles wynter frettes the ſtarre and watrye Orion,</l>
+               <l>The ſhyppes ſhaken, vnfriendly the ſeaſon.</l>
+               <l>Such wordes enflamed the kyndled mynde wyth loue,</l>
+               <l>Loſened al ſhame, and gaue the doubtful hope.</l>
+               <l>And to the temples fyrſt they haſte, and ſeeke,</l>
+               <l>By ſacrifyce for grace, wyth Hogreles of two yeares</l>
+               <l>Choſen (as they ought) to Ceres, that gaue lawes,</l>
+               <l>To Phebus, Bachus, and to Iuno chiefe,</l>
+               <l>Whych hath in care the bande of maryage.</l>
+               <l>Fayre Dido helde in her ryght hande the cuppe,</l>
+               <l>Whych twyxt the hornes of a whyte Cowe ſhe ſhedde</l>
+               <l>In preſence of the Gods paſſyng before</l>
+               <l>The aulters fatte, whych ſhe renewed oft</l>
+               <l>Wyth gyftes that day, and beaſtes deboweled:</l>
+               <l>Gaſyng for counſell in the entrales warme.</l>
+               <l>Ay me, vnſkylfull myndes of propheſye</l>
+               <l>Temples, or vowes, what boote they in her rage?</l>
+               <l>Gentle flame the Maryes doth deuowere:</l>
+               <l>Whyles in the breſt the ſylent wounde keepes lyfe,</l>
+               <l>Vnhappy Dido burns, and in her rage</l>
+               <l>Throughout the towne ſhe wandreth vp and downe:</l>
+               <l>Lyke the ſtrycken Hynde wyth ſhaft yſhotte:</l>
+               <l>Throughout the woods whych chaſing with his dartes</l>
+               <l>Aloofe, the Shepheard faſteneeth in her vnware:</l>
+               <l>And left in her vnwyſt the thyrlyng head:</l>
+               <l>That through the groues, and landes glides in her flight:</l>
+               <l>Amyd whoſe ſyde the mortall arrowe ſtyckes.</l>
+               <l>Aeneas nows about the wales ſhe leades,</l>
+               <l>The towne prepared, and Cartage welth to ſhewe,</l>
+               <l>Offryng to ſpeake, amyd the doyce, ſhe whyſtes.</l>
+               <l>And when the day gan fayle, nowe feaſtes ſhe makes</l>
+               <l>The Trotanes trauayles to heare a newe ſhe lyſtes</l>
+               <l>In ragedal: and ſtared in hys face</l>
+               <pb facs="tcp:183936:6"/>
+               <l>That tels the tale. And when they were al gone:</l>
+               <l>And the dymme nowe repryſed the day lyght:</l>
+               <l>And ſlyding ſtarres prouoked vnto ſleepe:</l>
+               <l>Alone ſhe mournes wythin her pallyce voyde:</l>
+               <l>And ſyts her downe on her forſaken bedde.</l>
+               <l>And abſent hym ſhe heares, when he is gone,</l>
+               <l>And ſeeth eke: oft in her lappe wyth holdes</l>
+               <l>Aſcanus trapte by hys fathers forme:</l>
+               <l>So to begyle the loue, that cannot be told.</l>
+               <l>The turrettes now aryſe not, erſt begone,</l>
+               <l>Neyther the youth weldes armes, nor they auaunce</l>
+               <l>The portes: nor other defence they make for warre.</l>
+               <l>Broken there hang the workes and myghty frames</l>
+               <l>Of walles hygh rayſed, threatnyng to the ſkye.</l>
+               <l>Whom aſſoone as Ioues deare wyfe ſawe in effect</l>
+               <l>Wyth a peſtilence, ne fame reſyſt the rage:</l>
+               <l>Saturnes daughter thus burdeneth Venus then.</l>
+               <l>Great prayſe (quoth ſhe) and worthy ſpoyles you winne.</l>
+               <l>Thou and thy ſonne, great Gods of memory,</l>
+               <l>By both your wylles one woman to deuower.</l>
+               <l>Yet am not I deceyued that foreknewe</l>
+               <l>Thee dread our walles, and buyldynges to ſuſpecte</l>
+               <l>Of hygh Cartage. But what ſhalbe the ende?</l>
+               <l>Or whereunto nowe ſerueth ſuche debate?</l>
+               <l>But rather peace, and brydeale bandes knytte we,</l>
+               <l>Sythe thou haſt ſped of that, thy hart deſyred.</l>
+               <l>Dido loues, and burns, the rage her bones doth perſe:</l>
+               <l>Thys people is then nowe common to vs both,</l>
+               <l>Wyth equall fauours let vs gouerne them,</l>
+               <l>Lefull be it to ſerue a Troiane ſpouſe:</l>
+               <l>And Tyrianes yelde to thy ryght hande in dowry.</l>
+               <l>To whom Venus replyed thus: that knewe,</l>
+               <l>Her wordes proceded from deſmembled mynde.</l>
+               <pb facs="tcp:183936:6"/>
+               <l>To Lybian coaſtes to turne thempyre from Rome,</l>
+               <l>What wyght ſo fonde, ſuche offer to refuſe?</l>
+               <l>Or yet wyth thee had leauer ſtryue in warre?</l>
+               <l>So be it fortune thy tale bryng to effect,</l>
+               <l>But deſtenyes I dout: leaſt Ioue wyll graunte,</l>
+               <l>That folke of Tyre, and ſuch as came from Troye,</l>
+               <l>Should hold one towne: or graunt theſe nacyons</l>
+               <l>Myngled to be, or ioyned in a leage.</l>
+               <l>Thou art hys wyfe: leful be it for the</l>
+               <l>For to attempt hys fanſye by requeſt:</l>
+               <l>Paſſe on before and folowe thee I ſhall?</l>
+               <l>Quene Iuno then thus tooke her tale agayne:</l>
+               <l>Thys trauayle be it myne: but by what meane.</l>
+               <l>(Marke in fewe wordes I ſhal thee learne eftſones)</l>
+               <l>Thys woorke in hand maye nowe be compaſſed.</l>
+               <l>Aeneas nowe, and wretched Dido eke</l>
+               <l>The foreſt tyll, a huntyng mynde to wende,</l>
+               <l>To morne as ſoone as Tytan ſhall aſcend,</l>
+               <l>And wyth hys beames hath ouerſpred the world.</l>
+               <l>
+                  <hi>Dum trepidantale.</hi>
+               </l>
+               <l>And whyles the raunger doth ſet the groues about:</l>
+               <l>A cloudy ſhower myngled wyth hayle</l>
+               <l>Poure downe on them, wyth thunder ſhake the ſkyes.</l>
+               <l>The aſſemble ſeattered the myſt ſhal cloke.</l>
+               <l>Dido a caue, the Troiane prynce the ſame</l>
+               <l>Shall enter to: and I wyll be at hand.</l>
+               <l>And yf thy wyll ſtycke vnto myne: I ſhall</l>
+               <l>In wedlocke ſure knyt, and make her hys owne.</l>
+               <l>Thys ſhall the maryage be: to whoſe requeſt</l>
+               <l>Wythout debate Venus dyd ſeme to graunt.</l>
+               <l>And ſmyled faſt, as ſhe that founde the wyle</l>
+               <l>Then from the ſeas, the dawnyng gan aryfe.</l>
+               <l>The ſunne once vp, the choſen youth gan thrunge</l>
+               <pb facs="tcp:183936:7"/>
+               <l>Vnto the gates: the hayes ſo rarely knytte,</l>
+               <l>The huntyng ſtaues wyth theyr broade heades of ſteele</l>
+               <l>And of maſile the horſemen foorth they brake</l>
+               <l>Of ſentyng houndes a kenell huge lykewyfe.</l>
+               <l>And at the threſhold of her chamber dore,</l>
+               <l>The Cartage Lordes dyd there the Quene awayte.</l>
+               <l>The tramplyng ſteede wyth gold and purple decht,</l>
+               <l>Chawyng the fomy bytte, there fiercely ſtoode.</l>
+               <l>Then iſſued ſhe, backed wyth a great route,</l>
+               <l>Clad in a cloke of Tyre ymbradred ryche</l>
+               <l>Her quyuer hunge behynde her backe, her treſſes</l>
+               <l>Wownde vp wyth golde, her purple veſtures eke</l>
+               <l>Butned wyth gold, the Troianes of her trayne</l>
+               <l>Before her go, wyth gladſome Iulus.</l>
+               <l>Aeneas eke the goodlyeſt of the route</l>
+               <l>Makes one of them, and ioyneth cloſe the thronges:</l>
+               <l>Lyke when Apollo leaueth Lycia,</l>
+               <l>Hys wyntryng place, and Xanthus flouddes lykewyſe:</l>
+               <l>To vyſet Delos hys mothers manſion:</l>
+               <l>The Candians, and folkes of Driopes,</l>
+               <l>And paynted Agathyrſies ſhoute, and crye:</l>
+               <l>When he walkes vpon mount Cynthus toppe:</l>
+               <l>Hys ſparkeled treſſes he preſt wyth garlandes ſoft</l>
+               <l>Of tender leaues, and truſſed vp in golde:</l>
+               <l>Hys qwyueryng dartes clattering behynde hys backe:</l>
+               <l>So freſhe and luſty dyd Aeneas ſeme:</l>
+               <l>Suche lordly port in countenaunce preſent.</l>
+            </lg>
+            <lg>
+               <l>But to the hyls, and wylde holtes when they came:</l>
+               <l>From the rockes topye then dryuen ſauage roſe,</l>
+               <l>Lo from the hyll aboue to the other ſyde,</l>
+               <l>Through the wyde landes: whereas there courſe</l>
+               <l>The hartes lykewyſe, in trompes takyng theyr flyght,</l>
+               <l>Rayſyng the duſt, the mountayne faſt forſake.</l>
+               <pb facs="tcp:183936:7"/>
+               <l>The chyld Iulus, blythe of hys ſwyft ſteede</l>
+               <l>Amyds the playne nowe pryckes by them, nowe thes:</l>
+               <l>And to encounter wyſheth oft in mynde</l>
+               <l>The fomyng Bore in ſteede of tymerons beaſtes:</l>
+               <l>Or Lyon browne myght from the hyll deſcend.</l>
+            </lg>
+            <lg>
+               <l>In the meane whyle the heauens gan roumble ſore:</l>
+               <l>In tayle thereof, a myngled ſhowre wyth hayle.</l>
+               <l>The Tyrian folke, and eke the Troians youth,</l>
+               <l>And Venus neyhe we the coltage for feare</l>
+               <l>Sought arounde about: the flouddes fell from the hyls.</l>
+               <l>Dido a denne, the Troiane prince lykewyſe,</l>
+               <l>Chaunſed vpon. Our mother (then) the earth,</l>
+               <l>And Iune that hath charge of maryage,</l>
+               <l>Fyrſt tokens gaue with burnyng gleades of flame,</l>
+               <l>And pryuy to the wedlocke lyghtnyng ſkyes:</l>
+               <l>And the Nymphes wayted from the mountaynes toy.</l>
+               <l>Ayme, this was the formeſt day of myrthe,</l>
+               <l>And of myſhappe the fyrſt occaſion eke.</l>
+               <l>Reſpect of fame no longer her wyth helde:</l>
+               <l>But muſeth how to frame her loue by ſtelthe.</l>
+               <l>Wedlocke ſhe cals it: vnder which pretence</l>
+               <l>Of that fayre name ſhe cloketh now her faut.</l>
+               <l>Forth w<hi rend="sup">t</hi> fame flyeth through the great Libian townes:</l>
+               <l>A myſchiefe fame, there is none els ſo ſwift:</l>
+               <l>That mouing growes, and flytting gathers force:</l>
+               <l>Firſt ſmall for dread, ſone after clymes on hye</l>
+               <l>Perecing the earth, and hydes her head in cloudes.</l>
+               <l>Whom our mother the earth, tempted by wrath</l>
+               <l>Of Gods begat: the laſt ſyſter (they wryte)</l>
+               <l>To Caeus, and to Enceladus eke,</l>
+               <l>Spedy of foote, of wynges lykewyſe ſwyft</l>
+               <l>A monſter huge, breadful for to tell.</l>
+               <l>For euery plumme, that on her bodyſtyckes,</l>
+               <pb facs="tcp:183936:8"/>
+               <l>As many waker eyes lurke vnderneath</l>
+               <l>So many mouthes to ſpeake, and harkenyng eares.</l>
+               <l>By might ſhe flyes amyd the cloudes and ſkye,</l>
+               <l>Shrykyng by the darke ſhadowe of the earth,</l>
+               <l>Ne dothe delyne to the ſwete fleepe her eyes.</l>
+               <l>By day ſhe ſyttes to ſee, on the houſe toppe,</l>
+               <l>Or turrettes hye and the great townes afrayes,</l>
+               <l>Myndefull of yll, and lyes as blaſtyng truth.</l>
+               <l>Thys menſter blythe wyth many a tale gan ſowe</l>
+               <l>Thys rumor then into the commons eares:</l>
+               <l>As well thynges done as that was neuer wrought:</l>
+               <l>Aeneas ce<g ref="char:cmbAbbrStroke">̄</g>men, ſprong of Troian bloude</l>
+               <l>To whom fayre Dido would her ſelfe be wedde,</l>
+               <l>Innatures luſte the wynter for to paſſe.</l>
+               <l>
+                  <hi>Regnorum immemores, turpique cupidine captos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thys in the mouthes, the fylthy Goddes ſpreddes,</l>
+               <l>And takes her courſe to kyng Iarbas ſtrayght,</l>
+               <l>Kyndlyng hys mynde, wyth tales ſhe fed his wrath,</l>
+               <l>Gotten he was by Ammon Iupiter</l>
+               <l>Vpon the rauiſhed Garamantida.</l>
+               <l>An hundred temples in hys large realme be buylt,</l>
+               <l>Aulters as many, wyth waker burnyng flame,</l>
+               <l>Awatche alwayes vpon the Gods to attende.</l>
+               <l>Flowers embruſed yelded bloud of beaſtes,</l>
+               <l>And threſhold ſpred wyth garlandes of ſtraunge hue.</l>
+               <l>He wood of mynde, kyndled by bytter bryntes,</l>
+               <l>Afore the aulters, in preſence of the Gods,</l>
+               <l>Wyth reared handes gan humbly Ioue entreate,</l>
+               <l>Almyghty God whom the Moores nacion</l>
+               <l>Fed at ryche tables preſenteth wyth wyne,</l>
+               <l>Seeſt thou theſe thynges, or feare we thee in vayne</l>
+               <l>When thou letteſt flye the thunder from the cloudes,</l>
+               <l>Whoſe flames of fyre wyth vayne noyſe vs affraye.</l>
+               <pb facs="tcp:183936:8"/>
+               <l>A wandryng woman in our coaſtes hath bought</l>
+               <l>A plot for pryce: where ſhe a vyllage ſet:</l>
+               <l>To whom we gaue the ſtronde for to manure,</l>
+               <l>And lawes to rule her towne: our wedlocke lothed,</l>
+               <l>Hath choſed Aeneas to commaunde her realme.</l>
+               <l>That Paris nowe with hys vnmanly ſorte,</l>
+               <l>Wyth mytred hattes, wyth oynted buſhe and beard,</l>
+               <l>Hys rape enioyeth: whyles to the temples we,</l>
+               <l>Our offrynges bryng, and folowe rumors vayne,</l>
+               <l>Whom praying in ſuche ſorte, and gryping eke</l>
+               <l>The autors faſt, the myghty father heard:</l>
+               <l>And wyth hys looke gan thwarte the ryal walles,</l>
+               <l>And louers eke forgettyng theyr good name,</l>
+               <l>To Mercurye then gaue he thus in charge.</l>
+               <l>Hence ſonne in haſt, and call to thee the wyndes:</l>
+               <l>Slyde wyth thy plumes, and tel the Troiane prynce,</l>
+               <l>That nowe in Cartage loytereth, reckleſſe</l>
+               <l>Of the townes graunted hym, by deſteny:</l>
+               <l>Swyft through the ſkyes, ſee thou theſe wordes reporte.</l>
+               <l>Hys fayre mother behyte hym not to vs</l>
+               <l>Suche one to be: ne therefore hym twyſe ſaued</l>
+               <l>From Greekyſhe armes, but Italye to rule,</l>
+               <l>Dreadfull in armes, charged wyth ſeigniory,</l>
+               <l>Diſcoueryng hys worthy tencryne race:</l>
+               <l>And vnder lawes, the whole worlde to ſubdue.</l>
+               <l>If glory of ſuche thynges nought hym enflame:</l>
+               <l>Ne that he lyſtes ſeeke honour by ſome payne:</l>
+               <l>The towers yet of Rome doth he enuye</l>
+               <l>To yong Aſcanus, that is hys father.</l>
+               <l>What myndeth he to frame? or by what hope</l>
+               <l>In enemyes lande doth he make hys abode?</l>
+               <l>Ne hys ofſpryng in Italy regardes?</l>
+               <l>Ne yet the land of Lauin doth beholde?</l>
+               <pb facs="tcp:183936:9"/>
+               <l>Bid him make ſaile: haue here the ſu<g ref="char:cmbAbbrStroke">̄</g>me:</l>
+               <l>Our meſſenger thus report. Then Mercury gan,</l>
+               <l>When Ioue had ſayd, bend him to obeye</l>
+               <l>Hys myghty fathers wyll: and to hys heeles</l>
+               <l>Hys golden wynges he knittes, whych him tranſporte:</l>
+               <l>With a lyght wynde aboue the earthe, the ſeas.</l>
+               <l>His wande he tooke, where wyth he cals from hel</l>
+               <l>Pale goſtes: other ſome alſo thyther he ſendes</l>
+               <l>Comfortles,</l>
+               <l>Whereby he foreceth ſleepes, and them bereues,</l>
+               <l>And mortall eyes he cloſeth vp in death:</l>
+               <l>By power whereof he driues the windes awaye.</l>
+               <l>And paſſeth eke amyd the the troubled cloudes.</l>
+               <l>And in his flight he ganne deſcrye the toppe,</l>
+               <l>And the ſtype flankes of rocky Atlas hyll:</l>
+               <l>That with his ſhoulders ſuſteines the welkyn vp:</l>
+               <l>Whoſe head for crowne, with pyne circled alway,</l>
+               <l>Wyth myſty cloudes beaten, with winde and ſtorme:</l>
+               <l>His ſhoulders ſpred wyth ſnowe, and from hys chinns</l>
+               <l>The ſpringes deſcende: his froſted beard wyth yſe.</l>
+               <l>Here Mercury with equall ſhining winges</l>
+               <l>Firſt touched, and with the body headling bette:</l>
+               <l>To the water thence tooke he hys extent.</l>
+               <l>Like to the foule, that endlong coſtes and ſtrondes</l>
+               <l>Swarming with fyſhe, flyes ſweping by the ſea:</l>
+               <l>Ruſhing betwixt the windes and Libian landes</l>
+               <l>From his graundfather by the mothers ſyde.</l>
+               <l>Cyllenes childe ſo came, and then alyght</l>
+               <l>Vpon the houſes with hys wynged feete.</l>
+               <l>For towers, whereas he Aeneas ſawe</l>
+               <l>Foundacions caſt, are ryng lodges newe:</l>
+               <l>Gyrt with a ſwearde of Iaſper ſtarry brigh</l>
+               <l>Of Tirian purple honge his ſhoulders downe</l>
+               <pb facs="tcp:183936:9"/>
+               <l>Hys ſhyning pawle of myghty Didos gyft,</l>
+               <l>Strypped throughout wyth a thyn thryd of gold.</l>
+               <l>Thus he encounters hym: Oh careles wyght</l>
+               <l>Both of thy realme, and of thyne owne affayres:</l>
+               <l>A maryed man now doſt thou reare the walles</l>
+               <l>Of hygh Cartage, to buylde a goodly towne.</l>
+               <l>From the ſkyes bryght the ruler of the Gods</l>
+               <l>Sent me to thee, that by hys becke commanndes</l>
+               <l>Both heauen and earth, in haſt gaue me charge</l>
+               <l>Through the lyght ayre thys meſſage there to ſay.</l>
+               <l>Why buyldeſt thou? or by what hope thy tyme</l>
+               <l>In idlenes thus waſtes in Affrycke lande?</l>
+               <l>Of ſo great thynges, if nought the fame thee ſtyrre,</l>
+               <l>Ne lyſtes by trauayle honour to purſue:</l>
+               <l>Aſcanus yet, that waxeth faſt beholde,</l>
+               <l>And the hope of Iulus ſeede thyne heyre:</l>
+               <l>To whom the realme of Italy belonges,</l>
+               <l>And ſoyle of Rome. When Mercury had ſayde:</l>
+               <l>Amyd hys tale farre of from mortall eyes</l>
+               <l>Into lyght ayre, he vanyſheth out of ſyght.</l>
+            </lg>
+            <lg>
+               <l>Well nere beſtraught, vpſtarte hys heare for dreade,</l>
+               <l>Amyd hys throte, hys voyce lykewyſe gan ſtycke.</l>
+               <l>For to depart by nyght he longeth now,</l>
+               <l>And the ſweete lande to leaue aſtoyned ſore.</l>
+               <l>By the aduyſe, and meſwage of the Gods</l>
+               <l>What may he do, alas? or by what woordes</l>
+               <l>Dare he perſwade the ragyng Quene in loue?</l>
+               <l>Or in what ſort dare he hys tale begynne?</l>
+               <l>Nowe here nowe there, hys reckles mynde gan runne,</l>
+               <l>And dyuerſly hym drawes diſcuſſyng all.</l>
+               <l>After long doutes thys ſentence ſemed beſt:</l>
+               <l>Aneſtheus ſyrſt, and ſtrong Cloanthus eke</l>
+               <l>He cals to hym, wyth ſergeſt vnto whom</l>
+               <pb facs="tcp:183936:10"/>
+               <l>He gaue in charge hys nauy ſecretely</l>
+               <l>For to prepare, and drewe to the ſea coaſt,</l>
+               <l>Hys people, and theyr armour to addreſſe:</l>
+               <l>And for the chaunge of thynges to fayne a ſeuſe,</l>
+               <l>And that he would, when Dido leaſt foreknew,</l>
+               <l>Or dyd ſuſpect, ſo great a loue coulde breake,</l>
+               <l>Awayte hys tyme to ſpeake thereof moſt meete:</l>
+               <l>The neareſt way to chaſten hys entent.</l>
+               <l>Gladly hys wyl, and hyddynges they obey.</l>
+               <l>Ful ſoone the Quene, thys crafty ſlyght gan ſmell,</l>
+               <l>Who can diſceyue a louer in forecaſt?</l>
+               <l>And fyrſt foreſawe the mocions for to come,</l>
+               <l>Thynges moſt aſſured fearyng: vnto whom</l>
+               <l>That wycked fame reported, how to flyght</l>
+               <l>Was armed the ſhyppe all redy to auale.</l>
+               <l>Then yll beſted of counſell rageth ſhe:</l>
+               <l>And whyſketh through the towne like Bachus munite</l>
+               <l>
+                  <hi>Bacchatur, qualis commotis excita ſacris</hi>
+               </l>
+               <l>
+                  <hi>Thias, vbi audito ſtimulant Trieterica Baccho</hi>
+               </l>
+               <l>
+                  <hi>Orgia, nocturnuſ que vocat clamore Citheron.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At length thus bordes ſhe Aeneas of her ſelfe.</l>
+               <l>Vnfaythful wyght, to couer ſuche a flyght,</l>
+               <l>Couldeſt thou hope vnwyſt to leaue my land?</l>
+               <l>Not thee our loue, nor yet ryght hande betrothed,</l>
+               <l>Ne cruell death of Dido may wyth holde?</l>
+               <l>But that thou wylt in wynter ſhyppes prepare,</l>
+               <l>Cruel to trye the ſeas in boyſterous wyndes.</l>
+               <l>What if the land thou ſeekeſt, were not ſtraunge,</l>
+               <l>If not vnknowen? or auncient Troye ſtoode,</l>
+               <l>In rough ſeas, yet ſhould Troy towne be ſought?</l>
+               <l>Shunneſt thou me: by theſe teares and ryght hand,</l>
+               <l>(For nought els haue I wretched left my ſelfe)</l>
+               <l>By our ſpouſals, and maryage begone,</l>
+               <pb facs="tcp:183936:10"/>
+               <l>If I of thee deſerued euer well:</l>
+               <l>Or thyng of myne were euer to thee leefe:</l>
+               <l>Rue on thys realme, whoſe ruine is at hande,</l>
+               <l>I thee beſcche: and do away thys mynde.</l>
+               <l>The Lybians and Tirians tyrans of Nomadane</l>
+               <l>For thee me hate: my Tyrians eke are wroth</l>
+               <l>My ſhame faſtnes eke ſtayned for thy cauſe,</l>
+               <l>And good renoume, whereby vp to the ſtarres</l>
+               <l>Pereles I came. To whom wylt thou me leaue</l>
+               <l>Redy to dye, my ſwete gueſt? ſythe thys name</l>
+               <l>Is all as nowe, that of a ſpouſe remaynes.</l>
+               <l>But whereto nowe ſhould I prolong my death?</l>
+               <l>To tary tyll my brother Pigmalion</l>
+               <l>Beate downe my walles? or the Getulyan kyng</l>
+               <l>Iarbas yet captyue leade me awaye?</l>
+               <l>Before the flyght a chylde had I conceyued;</l>
+               <l>Or ſene a yong Aeneas in my courte</l>
+               <l>To play vp and downe, that dyd preſent thy face,</l>
+               <l>All vtterly I coulde not ſeeme forſaken.</l>
+            </lg>
+            <lg>
+               <l>Thus ſayd the Quene: he to the Gods aduyſe</l>
+               <l>Vnmoued held hys eyes, and in hys breſt</l>
+               <l>Repreſt hys care, and ſtroue agaynſt hys wyl.</l>
+               <l>Theſe wordes yet at laſt then forth he caſt:</l>
+               <l>Neuer ſhall I denye (Quene) thy deſert</l>
+               <l>Greater then thou in wordes may wel expreſſe:</l>
+               <l>To thynke on thee, ne yrke me aye it ſhall:</l>
+               <l>Whyles of my lelfe I ſhall haue memory,</l>
+               <l>And whyles the ſpirit theſe ſynowes of myne ſhall rule,</l>
+               <l>It is not great the thyng that I requyre:</l>
+               <l>Neyther ment I to cloke the ſame by ſteith</l>
+               <l>Sclaunder me not, ne to eſcape by flyght,</l>
+               <l>Nor I to thee pretended maryage:</l>
+               <l>Ne hyther cam to ioyne ſuche leages.</l>
+               <pb facs="tcp:183936:11"/>
+               <l>If deſteny at myne owne lyberty</l>
+               <l>To leade my lyfe would haue permytted me</l>
+               <l>After my wyl my ſorowe to redout:</l>
+               <l>Troy and the remaynder of our folke</l>
+               <l>Reſtore I ſhould: and wyth theſe eſcaped handes,</l>
+               <l>The wailes agayne vnto thee vanquyſhed</l>
+               <l>And palace hygh of Priam eke repayre.</l>
+               <l>But nowe Apollo, called Gryneus,</l>
+               <l>And prophecies of Licia wyll me aduyſe</l>
+               <l>To leaſe vpon the realme of Italy,</l>
+               <l>That is my loue, my country, and my land.</l>
+               <l>If Cartage turrettes thee of Phoenis land,</l>
+               <l>And of a Lybian towne the ſyght deteyne:</l>
+               <l>To vs Trowns why doeſt thou enuye</l>
+               <l>In Italy to make our reſydence?</l>
+               <l>Lefull it is for vs ſtraunge realmes to ſeeke.</l>
+               <l>As oft as nyght doth cloke wyth ſhadowes darks</l>
+               <l>The earth: as oft as flamyng ſtarres apeare:</l>
+               <l>The troubled goſt of my father Anchiſes</l>
+               <l>So oft in ſleepe doth me feare, and aduyſe.</l>
+               <l>The wronged hede by me of my deare ſonne,</l>
+               <l>Whom I defraude of the Hiſpriane crowne,</l>
+               <l>And landes allotted hym by deſtenye.</l>
+               <l>The meſſenger eke of the Gods of late</l>
+               <l>Sent downe from Ioue (I ſweare by eyther hede)</l>
+               <l>Paſſyng the ayre, dyd thys to me reporte.</l>
+               <l>In bryght day yght the God my ſelfe I ſawe</l>
+               <l>Entre theſe walles, and wyth theſe eares hym heard.</l>
+               <l>Leaue then with plaint, to vexe both the and me.</l>
+               <l>Agaynſt my wyll to Italy I go.</l>
+            </lg>
+            <lg>
+               <l>Whyles in this ſorte he dyd hys tale pronounce:</l>
+               <l>Wyth wayward looke ſhe gan hym aye beholde,</l>
+               <l>And rolyng eyes, that moued to and fro:</l>
+               <pb facs="tcp:183936:11"/>
+               <l>Wyth ſylence looke diſcourſyng ouer all,</l>
+               <l>And forth in rage, at laſt thus gan ſhe brayde,</l>
+               <l>Faithleſſe, forſworne, thy dame ne Goddes was,</l>
+               <l>Nor Dardanus begynner of thy race,</l>
+               <l>But of hard rockes mount Tancaſe monſtrous</l>
+               <l>Bred thee, and teates of Tyger gaue thee ſucke.</l>
+               <l>But what ſhould I dyſcemble nowe my chere?</l>
+               <l>Or me reſerue to hope of greater thynges?</l>
+               <l>Myndes he our teares? or euer moued hys eyen?</l>
+               <l>Wept he for ruthe? or pytyed he our loue?</l>
+               <l>What ſhal I ſet before? or where begynne?</l>
+               <l>Iuno nor Ioue wyth iuſt eyes thys beholdes.</l>
+               <l>There is no fayth, no ſurety to be found.</l>
+               <l>Dyd I not hym throne vp vpon my ſhore</l>
+               <l>In neede receyue, and fonded foolyſhe eke inueſt</l>
+               <l>Of halfe my realme? hys nauy loſt, repayre?</l>
+               <l>From deathes daunger hys felowes eke defende</l>
+               <l>Aime, wyth rage and furyes am I dryue.</l>
+               <l>Apollo nowe, nowe Lycian propheſies,</l>
+               <l>Another whyle the meſſenger of the Gods.</l>
+               <l>(He ſayes) ſent downe from myghty Ioue hym ſelfe</l>
+               <l>The dreadfull charge amyd the ſkyes hath brought.</l>
+               <l>As though that were the trauayle of the Gods,</l>
+               <l>Or ſuch a care theyr quyetnes myght moue.</l>
+               <l>I hold thee not, nor yet gayneſay thy wordes,</l>
+               <l>To Italy paſſe on by helpe of wyndes,</l>
+               <l>And through the flouds go ſearche thy kyngdome news</l>
+               <l>If ruthfull Gods haue any power I truſt,</l>
+               <l>Amyd the rockes, thy hyre thou ſhalt fynde,</l>
+               <l>When thou ſhalt cleape ful oft on Didoes name,</l>
+               <l>Wyth buryal brandes I abſent ſhall thee chaſe.</l>
+               <l>And when cold death from lyfe theſe lymmes deuydes,</l>
+               <l>My goſte eche where ſhall ſtyll vpon thee wayte,</l>
+               <pb facs="tcp:183936:12"/>
+               <l>Thou ſhalt abye, and I ſhall here thereof.</l>
+               <l>Among the ſoules belowe thys brute ſhall come.</l>
+               <l>Wyth ſuche lyke wordes ſhe cut of halfe her tale,</l>
+               <l>Wyth penſiue hart abandonyng the lyght:</l>
+               <l>And from hys ſyght, her ſelfe gan farre remoue:</l>
+               <l>For ſakyng hym: that many thynges in feare</l>
+               <l>Imagened, and dyd prepare to ſaye.</l>
+               <l>Her ſwonyng lymmes her damſels gan relcue,</l>
+               <l>And to her chamber bare of marble ſtone:</l>
+               <l>And layde her on her bed wyth tappettes ſpred.</l>
+               <l>But iuſt Aeneas though he dyd deſyre,</l>
+               <l>Wyth comfort ſwete her ſorowes to apeaſe:</l>
+               <l>And wyth hys wordes to banyſhe al her care:</l>
+               <l>To wayle her muche, wyth great loue ouercome,</l>
+               <l>By the Gods wyl yet woorkes he, and reſortes</l>
+               <l>Vnto hys nauy, where the Troianes faſt</l>
+               <l>Fel to theyr worke from the ſhore to vnſtocke</l>
+               <l>Hygh charged ſhyppes: now fleetes the talowed kele,</l>
+               <l>Theyr owers w<hi rend="sup">t</hi> leaues yet grene fro<g ref="char:cmbAbbrStroke">̄</g> the wod thei bring</l>
+               <l>And maſtes vnſhaue, for haſt to take theyr flyght.</l>
+               <l>You myght haue ſene them thrunge out of the towne</l>
+               <l>Lyke Anttes, when they do ſpoyle the buige of corne:</l>
+               <l>For wynters dread whych they beare to theyr denne:</l>
+               <l>When the blacke ſwarme créepes ouer al the feldes:</l>
+               <l>And thwarte the gras by ſtrait pathes drags theyr pray,</l>
+               <l>The great graynes the<g ref="char:cmbAbbrStroke">̄</g>, ſome on theyr ſhoulders truſſe,</l>
+               <l>Some dryue the troupe, ſome chaſtyce eke the flow?</l>
+               <l>That wyth theyr trauayle chafed is eche pathe.</l>
+               <l>Beholdyng thys, what thought myght Dido haue?</l>
+               <l>What ſyghtes gaue ſhe? when fro<g ref="char:cmbAbbrStroke">̄</g> her towers of hight</l>
+               <l>The large coaſtes ſhe ſaw hauted with Troians works,</l>
+               <l>And in her ſyght the ſeas wyth dyn confounded.</l>
+               <l>O wytleſſe loue, what thyng is that to do</l>
+               <pb facs="tcp:183936:12"/>
+               <l>A mortall mynde thou canſt not force thereto?</l>
+               <l>Forced ſhe is to teares, and to returne</l>
+               <l>By newe requeſtes, and yelde the hart to loue,</l>
+               <l>Leaſt ſhe ſhoulde before her cauſeles death</l>
+               <l>Leaue any thyng vntryed: O ſyſter Anne</l>
+               <l>Quoth ſhe, beholde the whole coaſt round about,</l>
+               <l>Howe they prepare aſſembled euery where.</l>
+               <l>The ſtrayned ſayle abydeth but for wynde:</l>
+               <l>The ſhypmen crowne theyr ſhyps with bowes for ioye,</l>
+               <l>O ſyſter, yf ſo great a ſorowe I</l>
+               <l>Myſtruſted had: it were more lyght to beare.</l>
+               <l>Yet neuertheleſſe thys for me a wretched wyght,</l>
+               <l>Anne, ſhalt thou do: for faythleſſe thee alone</l>
+               <l>He reuerenced, and eke hys ſecretes tolde:</l>
+               <l>The meeteſt tymes thou kneweſt to borde the man:</l>
+               <l>To my proude foe, thus ſyſter humbly ſaye:</l>
+               <l>I wyth the Greekes in the port Aulide</l>
+               <l>Countured not the Troians to deſtroy:</l>
+               <l>Nor to the walles of Troy yet ſent my fleete:</l>
+               <l>Nor cynders of hys father Anchiſes</l>
+               <l>Diſturbed aye out of hys ſepulture:</l>
+               <l>Why lettes he not my wordes ſynke in hys eares?</l>
+               <l>So harde for to entreate, whyther whurles he?</l>
+               <l>Thys laſt bowne yet graunt he hys wretched loue:</l>
+               <l>Proſperous wyndes for to depart wyth eaſe</l>
+               <l>Let hym abyde: the foreſayde maryage nowe,</l>
+               <l>That he betryed, I do not hym requyre:</l>
+               <l>Nor that he ſhould fayre Italy forgo:</l>
+               <l>Neyther I would, he ſhould hys kyngdome leaue:</l>
+               <l>Quyet I aſke, and a tyme of delay</l>
+               <l>And reſpyte eke my furye to aſſwage</l>
+               <l>Tyl my myſhappe teache me al comfortles,</l>
+               <l>How for to wayle my greefe thys latter grace,</l>
+               <pb facs="tcp:183936:13"/>
+               <l>Syſter I craue, haue thou remors of me,</l>
+               <l>Whych if thou ſhalt vouchſafe, wyth heapes I ſhall</l>
+               <l>Leaue by my death well rendred vnto thee.</l>
+               <l>Myngled wyth teares, thus wretched gan ſhe playne,</l>
+               <l>Whych Anne reportes, and anſwer bryng agayne.</l>
+               <l>Nought teares hym moue, ne yet to any wordes</l>
+               <l>He harkens, though that he were myide of kynde,</l>
+               <l>Deſtenies wythſtand, and god ſtoppes hys meke eares.</l>
+               <l>Lyke to the aged boyſterous bodyed oke,</l>
+               <l>Amyd the alpes, which that Nor the<g ref="char:cmbAbbrStroke">̄</g> windes,</l>
+               <l>Blowyng nowe from thys, now fro<g ref="char:cmbAbbrStroke">̄</g> that quarter blow,</l>
+               <l>Betwyxt them ſtryue to ouerwhelme wyth blaſtes,</l>
+               <l>The whyſtelyng ayre among the braunches rores,</l>
+               <l>Whych al at once bowe to the earth theyr croppes,</l>
+               <l>The ſtocke once ſmyt, whyles in the rockes the tree</l>
+               <l>Styckes faſt, and looke, how hye to the heaue<g ref="char:cmbAbbrStroke">̄</g> his toppe</l>
+               <l>Reares vp, as deepe hys roote ſpreddes downe to hel:</l>
+               <l>So was thys Lord nowe here nowe there beſet</l>
+               <l>With words, in whoſe ſtout breſt wrought many cares,</l>
+               <l>But ſtyll hys mynde in one remaynes, in vayne</l>
+               <l>The teares were ſhed. Then Dido frayde of fates</l>
+               <l>Wyſhed for death, yrketh to ſee the ſkyes.</l>
+               <l>And that ſhe myght the rather worke her wyl,</l>
+               <l>And leaue the lyght (a grieſely thyng to tell)</l>
+               <l>Vpon the aulters burnyng ful of ſence.</l>
+               <l>When ſhe ſet gyftes of ſacrifyce, ſhe ſawe</l>
+               <l>The holy water ſtockes waxe blacke wythin,</l>
+               <l>The wyne eke ſhed, chaunge into fylthy geare,</l>
+               <l>Whych ſyght to none, not to her ſyſter told.</l>
+               <l>A marble temple in her palice eke,</l>
+               <l>In memory of her old ſpouſe, there ſtoode,</l>
+               <l>In great honour and worſhyppe, whych ſhe helde,</l>
+               <l>With ſnow white clothes decked, &amp; with bowes of feaſt,</l>
+               <pb facs="tcp:183936:13"/>
+               <l>Where oft was heard, her huſbandes voyce, and ſpeche</l>
+               <l>Clypping for her, when darke nyght hyd the earth</l>
+               <l>And oft the Owle wyth rufull ſong complayne,</l>
+               <l>From the houſe toppe to drawe hys playning tunes</l>
+               <l>And many thynges foreſpoke by prophetes paſt</l>
+               <l>Wyth dreadfull warnyng gan her nowe affray:</l>
+               <l>And ſterne Aeneas ſemed in her ſleepe</l>
+               <l>To chaſe her ſtyll about, beſtraught in rage:</l>
+               <l>And ſtyl her thought, that ſhe was alone</l>
+               <l>Vnwayted on great vyages to wende.</l>
+               <l>In deſert land her Tyrian folkes to ſeeke.</l>
+               <l>Lyke Pentheus, that in hys madnes ſawe</l>
+               <l>Swarmyng in flockes the furyes al of hell:</l>
+               <l>Two ſunnes remoue, and Thebes towne ſhew twaine.</l>
+               <l>Or lyke Oreſtes Agamemnons ſonne:</l>
+               <l>In tragedyes who repreſented ays</l>
+               <l>Dryuen about, that from hys mother fled,</l>
+               <l>Armed wyth brandes, and eke wyth ſerpentes blacks:</l>
+               <l>That ſyttyng ſound wythin the temples porche</l>
+               <l>The hugely furyes hys ſlaughter to reuenge</l>
+               <l>Yelden to wo, when franſye had her caught:</l>
+               <l>Wythin her ſelfe then gan ſhe wel debate</l>
+               <l>Ful bent to dye the tyme, and eke the meane:</l>
+               <l>And to her wofull ſyſter thus ſhe ſayd,</l>
+               <l>In outward cheare, diſſemblyng her entent,</l>
+               <l>Preſentyng hope vnder ſemblant glad:</l>
+               <l>Syſter reioyce, for I haue founde the waye</l>
+               <l>Hym to returue, or loſe me from hys loue.</l>
+               <l>Toward thende of the great Octian,</l>
+               <l>Where as the Sunne dyſcendeth, and declynes:</l>
+               <l>In the extremes of Ethiope is a place,</l>
+               <l>Where huge Atlas doth on hys ſhoulders turne</l>
+               <l>The ſphere ſo rounde, wyth flamyng ſtarres beſet,</l>
+               <pb facs="tcp:183936:14"/>
+               <l>Borne of maſile, I heare ſhould be a nunne</l>
+               <l>Of the Hyſperiane ſyſters temple</l>
+               <l>The garden that gyues the Dragon foode</l>
+               <l>That on the tree preſerues the holy fruite</l>
+               <l>Wyth hony moyſte, and poppey that ſleepe prouokes</l>
+               <l>Thys woman doth auaunt, by force of charme</l>
+               <l>What hart ſhe lyſt to ſet at lybextye:</l>
+               <l>And other ſome to perece wyth heauy cares:</l>
+               <l>In runnyng flood to ſtoppe the waters courſe:</l>
+               <l>And eke the ſtarres theyr meuinges to reuerſe:</l>
+               <l>The goſtes that walke by nyght, eke to aſſemble:</l>
+               <l>Vnder thy feete, thearth thou ſhalt behold</l>
+               <l>Tremble and roare, the okes fall from the hyll.</l>
+               <l>The Gods and thee, deare ſyſter, nowe I call</l>
+               <l>In wytnes, and thy heade ſo ſweete:</l>
+               <l>To Magike artes agaynſt my wyl I bende.</l>
+               <l>Ryght ſecretely wythin our inner court,</l>
+               <l>In open ayre reare vp a ſtake of wood:</l>
+               <l>And hang thereon the weapon of thys man</l>
+               <l>The whych he left wythin my chamber ſtycke.</l>
+               <l>Hys weedes dyſpoyled all, and brydeall bedde,</l>
+               <l>Wherein alas Syſter, I founde my bane:</l>
+               <l>Charge thereupon, for ſo the Nunne commaundes,</l>
+               <l>To do away, what dyd to hym belong:</l>
+               <l>Of that falſe wyght that myght remembraunce bryng.</l>
+            </lg>
+            <lg>
+               <l>Then whyſted ſhe, the pale her face gan ſtayne,</l>
+               <l>Ne could yet Anne beleue, her ſyſter ment</l>
+               <l>To cloke her death by thys newe ſacryfice:</l>
+               <l>Nor in her breſt ſuche fury dyd conceyue,</l>
+               <l>Neyther doth ſhe nowe dread more greuous thyug,</l>
+               <l>Then folowed Sicheus death: wherefore</l>
+               <l>She put her wyll in vre</l>
+               <l>But the Quene, when theſtake was reared vp,</l>
+               <l>Vnder the ayre wythin the inwarde court</l>
+               <pb facs="tcp:183936:14"/>
+               <l>Wyth clouen oke, and byllettes made of fyrre,</l>
+               <l>Wyth garlandes then, ſhe doth beſet the place,</l>
+               <l>And wyth grene bowes eke crowne the funerall.</l>
+               <l>And thereupon hys weedes and ſworde forſooke,</l>
+               <l>And on hys bed hys pycture ſhe beſtowes:</l>
+               <l>As ſhe that wel foreknewe what was to come.</l>
+               <l>The aulters ſtande about, and eke the Nunne</l>
+               <l>Wyth ſparkeied treſſe, the whych three hundred Gods</l>
+               <l>Wyth a loude voyce doth thunder out at once:</l>
+               <l>Erebus the griſelye, and Chaos eke,</l>
+               <l>The three folde Goddeſſe Proſerpina,</l>
+               <l>And three faces of Diana the Virgin</l>
+               <l>And ſpryncles eke the water counterfet</l>
+               <l>Lyke vnto the blacke Auernes lake in hell,</l>
+               <l>And ſprynging herbes reaped wyth braſen ſythes</l>
+               <l>Were ſought after the ryght courſe of the Moone,</l>
+               <l>Theyr venim blacke intermyngled wyth mylke</l>
+               <l>The lumpe of fleſhe twene the newe borne foles eyes</l>
+               <l>To reue, that wynneth from the da<g ref="char:cmbAbbrStroke">̄</g>me her loue.</l>
+               <l>She wyth the Mole all in her handes deuout</l>
+               <l>Stoode neare the aulter, bare of the one foote,</l>
+               <l>Wyth veſture looſe, the bandes vnlaſed all:</l>
+               <l>Bent for to dye, cals the Gods to recorde,</l>
+               <l>And gyity ſtarres eke of her deſtenye.</l>
+               <l>And yf there were any God that had care</l>
+               <l>Of louers vnequall in beheſt:</l>
+               <l>Hym ſhe requiers of iuſtice to remember.</l>
+            </lg>
+            <lg>
+               <l>It was then nyght, the ſounde and quyet ſleepe</l>
+               <l>Had through the earth the wearyed bodyes caught,</l>
+               <l>The woods, the ragyng ſeas were fallen to reſt,</l>
+               <l>When that the ſtarres had halfe theyr courſe declyned,</l>
+               <l>The feldes whyſt, beaſtes, and fowles of dyuers hue,</l>
+               <l>And what ſo that in the brode longes remaynde,</l>
+               <pb facs="tcp:183936:15"/>
+               <l>Or yet amonge the buſhye thickes of brfar,</l>
+               <l>Layde downe to ſlepe by ſilens of that nyght</l>
+               <l>Gan ſwage theyr cares, myndles of trauailes pas</l>
+               <l>Not ſo the ſpiryt of thys Phenyſian:</l>
+               <l>Vnhappy ſhe, that on no ſlepe could chaunce:</l>
+               <l>Nor yet myght reſt in eye, nor breſt could entre,</l>
+               <l>Her cares redoble: loue ryſe and rage agayne,</l>
+               <l>And ouerflowes wyth ſwelling ſtormes of wrath.</l>
+               <l>Thus thynkes ſhe then, thys roles ſhe in her mynde.</l>
+               <l>What ſhal I do? ſhal I nowe beare the ſcorne</l>
+               <l>For to aſſaye myne old woers agayne?</l>
+               <l>And humbly yet a nunned ſpouſe requyre?</l>
+               <l>Whoſe maryage I haue ſo oft dyſdeyned?</l>
+               <l>The Troian nauy, and Teucryne vyle commaundes</l>
+               <l>Folow ſhal I? as though it ſhould auayle,</l>
+               <l>That whylom by my helpe they were releued:</l>
+               <l>Or for becauſe wyth kynde, and myndefull folke</l>
+               <l>Ryght well dothe ſyt the paſſed thankfull dede:</l>
+               <l>Who would me ſuffer? (admyt thys were my wyl)</l>
+               <l>Or ſcorned me to theyr proude ſhyppes receyue?</l>
+               <l>Oh, wo begone: full lytle doeſt thou wotte.</l>
+               <l>Or ſmell the broken othes of Laomedons kynde.</l>
+               <l>What then? alone on mery Maryners</l>
+               <l>Shal I wayte? or borde them wyth my power:</l>
+               <l>Of Tyryans aſſembled me about,</l>
+               <l>And ſuche as I wyth trauayle brought from Tyre,</l>
+               <l>Dryue to the ſeas, and force them fayle agayne?</l>
+               <l>But rather dye, euen as thou haſt deſerued:</l>
+               <l>And to thys we wyth Ire gyue thou ende.</l>
+               <l>And thou ſyſter vanquyſhed wyth my teares,</l>
+               <l>Thou in my rage with al the myſchiefe fyrſt</l>
+               <l>Dyd burden me, and wyſhe me to my foe,</l>
+               <l>Was it not graunted me from ſpouſals free,</l>
+               <pb facs="tcp:183936:15"/>
+               <l>Lyke to wylde beaſtes, to lyue wythout offence<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Wythout taſte of ſuche cares? is there no fayth,</l>
+               <l>Reſerued to the ſinders of Sycheus?</l>
+               <l>Such great complaynt brake forthe out of hyr breſt:</l>
+               <l>Whyles that Aeneas certayne to depart,</l>
+               <l>All thynges prepared, ſlept in the poupe on bygh.</l>
+               <l>To whom in ſleepe the wounted God heades forme</l>
+               <l>Gan aye apeare, retournyng in lyke ſhape</l>
+               <l>As ſemed hym: and gan hym thus aduyſe:</l>
+               <l>Lyke vnto Mercury in voyce, and hue,</l>
+               <l>Wyth yellowe buſhe, and comelye lymmes of youth.</l>
+               <l>O Goddeſſe ſonne, in ſuche caſe canſt thou ſleepe?</l>
+               <l>Ne yet be ſtraught the daungers doeſt foreſee,</l>
+               <l>That copaſſe thee? nor heareſt the fayre wyndes blow:</l>
+               <l>Dido in mynde roles vengeaunce and deceyte,</l>
+               <l>Certayne of death, ſwelles wyth <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble Ire.</l>
+               <l>Wylt thou not flye, whyle, thou h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tyme of flyght?</l>
+               <l>Straight ſhalt tho<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ouered wyth ſayles</l>
+               <l>The blaſyng brondes <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſhore ſtaid all wyth flame:</l>
+               <l>And yf the morow <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>the here:</l>
+               <l>Come of, haue <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> on ſyde,</l>
+               <l>Ful of chaun<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>en be alway.</l>
+               <l>Thys <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nyght he gan hym hyde.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſodayne vyſion</l>
+               <l>A<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rad ſtarts vp from hys ſleepe in haſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vp hys feeres awake get vp my men,</l>
+               <l>Aborde your ſhyppes, and hoyſe vp ſayle wyth ſpeede,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God me wylles ſent from Ioue agayne)</l>
+               <l>To haſt my flyght, and wrythen cables cut.</l>
+               <l>Oh holy God, what ſo thou art we ſhal</l>
+               <l>Folowe thee, and all blyth obey thy wyll:</l>
+               <l>Be at out hand, and friendly vs aſyſt:</l>
+               <l>Adreſſe the ſtarres wyth proſperous influence.</l>
+               <pb facs="tcp:183936:16"/>
+               <l>And wyth that woord hys glyſteryng ſword vnſhethes,</l>
+               <l>Wyth whych drawen he the cables cut in twayne.</l>
+               <l>The lyke deſyre the reſt embraced all,</l>
+               <l>All ſhyng in haſt they wreſt, and forth they whurle,</l>
+               <l>The ſhores they leaue, wyth ſhyppes the ſcas are ſpred,</l>
+               <l>Cuttyng the ſome, by the blewe ſeas they ſweepe.</l>
+               <l>Aurora nowe from Titans purpie bedde,</l>
+               <l>Wyth newe day lyght hath ouerſpred the earth,</l>
+               <l>When by her wyndowes the Quene the crekyng days</l>
+               <l>Aſpyed, and the nauy wyth ſplayed ſayles departe</l>
+               <l>The fhore, and eke the porte of veſſels voyde.</l>
+               <l>Her comely breſt three or foure tymes ſhe ſmote</l>
+               <l>Wyth her owne hande, and toare her golden treſſe.</l>
+               <l>Oh Ioue (quoth ſhe) ſhall he hence thus depart</l>
+               <l>A ſtraunger thus, and ſcorne our kyngdome ſo?</l>
+               <l>Shal not my men do on theyr armour preſt?</l>
+               <l>And eke purſue them throughout al the towne?</l>
+               <l>And out of the rode ſoone ſhall the veſſell warpe.</l>
+               <l>Haſte on, caſt flame, hoyſe ſayle, and welde your owers.</l>
+               <l>What ſayde I? but where am I? what franſy</l>
+               <l>Alters thy mynde, vnhappy Dido? now</l>
+               <l>Hath thee beſet a froward deſteny.</l>
+               <l>Then it behoued, when thou wyth hym deuydedſt</l>
+               <l>The ſeepture loe, hys fayth, and hys ryght hand,</l>
+               <l>That leades wyth hym (they ſay) hys countrey goodes?</l>
+               <l>That on hys backe hys aged father bore,</l>
+               <l>Hys body myght I not haue caught and rent?</l>
+               <l>And in the ſeas drenched hym, and his feeres?</l>
+               <l>And from Aſcanus hys lyfe wyth Iron reſt?</l>
+               <l>And ſet hym on hys fathers borde for meate?</l>
+               <l>Of ſuche debate perchaunce the fortune myght</l>
+               <l>Haue bene doutfull, woulde God it were aſſayed,</l>
+               <l>Whom ſhoulde I feare? ſyths I my ſelfe muſt dye.</l>
+               <pb facs="tcp:183936:16"/>
+               <l>Myght I haue throwen into that nauy brandes,</l>
+               <l>And fylled eke theyr deckes wyth flamyng fyre,</l>
+               <l>The father, ſonne, and all theyr nation</l>
+               <l>Deſtroyed, and fall my ſelfe there ouerall.</l>
+               <l>Sunne wyth thy beames, that mortall workes diſcryes,</l>
+               <l>And thou Iuno, that well theſe trauayles knowes,</l>
+               <l>Proſerpyne thou, vpon whom folke do vſe</l>
+               <l>To houle, and call in forked wayes by nyght,</l>
+               <l>Infernall furyes eke, ye wreakers of wrong,</l>
+               <l>And Didos Gods, who ſtandes at poynt of death,</l>
+               <l>Receyue theſe wordes, and eke your heauy power</l>
+               <l>Wythdra we from me, that wycked folke deſerue,</l>
+               <l>And our requeſt accept, we you beſeche.</l>
+               <l>If ſo that yonder wycked head muſt needes</l>
+               <l>Recouer porte, and ſayle to lande of force,</l>
+               <l>And if Ioues wyll haue ſo reſolued,</l>
+               <l>And ſuche end hath ſet as no wyght can foredoe,</l>
+               <l>Yet at the leaſt aſayled mought he be</l>
+               <l>Wyth armes, and warres of hardy nations,</l>
+               <l>From the bowndes of hys kyngdome farre eryled,</l>
+               <l>Iulus eke rauyſhed out of hys armes,</l>
+               <l>Dryuen to call for helpe, that he may ſee</l>
+               <l>The gyltles corpſes of hys folke lye dead.</l>
+               <l>And after hard condicions of peace,</l>
+               <l>Hys realme, nor lyfe deſyred may he brooke:</l>
+               <l>But fall before hys tyme vnburyed amyd the ſandes.</l>
+               <l>Thys I requyre, theſe wordes wyth bloud I ſhedde.</l>
+               <l>And Tyrians, ye hys ſtocke and all hys race</l>
+               <l>Purſue wyth hate, rewarde our fynders foe,</l>
+               <l>No loue nor leage, betwyxt our peoples be.</l>
+               <l>And of our bones, ſome wreaker maye there ſpryng,</l>
+               <l>Wyth ſworde and flame that Troians maye purſue,</l>
+               <l>Now from hencefoorth when power may ſtretche,</l>
+               <pb facs="tcp:183936:17"/>
+               <l>Our coſtes to them contrary be they for aye,</l>
+               <l>I craue of God, and our ſtreames to theyr fluddes,</l>
+               <l>Armes vnto armes, and of ſpryng of eche rate.</l>
+               <l>Thys ſayde, her mynde ſhe wrythed ouer al ſydes,</l>
+               <l>Seekyng wyth ſpeede to ende thys irkeſome lyfe.</l>
+               <l>To Sicheus nurſe Barcen then briefely thus ſhe ſayde:</l>
+               <l>For hers at home in aſhes dyd remayne.</l>
+               <l>Call vnto me deare nurſe my ſyſter Anne:</l>
+               <l>Byd her, in haſt in water of the fludde</l>
+               <l>She ſprynckle the body, and bryng the beaſtes,</l>
+               <l>And purgyng ſacrifice, I dyd her ſhewe:</l>
+               <l>So let her come: and thou thy temples bynde</l>
+               <l>Wyth ſacred garlandes, for the ſacrefyce,</l>
+               <l>That I to Pluto haue begonne my mynde,</l>
+               <l>Is to reforme, and geue ende to theſe cares:</l>
+               <l>And Troian ſtatue throwe into the flame.</l>
+               <l>When ſhe had ſayde: redouble gan her nurſe</l>
+               <l>Her ſteppes, forth on an aged womans trotte,</l>
+               <l>But tremblyng Dido al egerly now bent</l>
+               <l>Vpon her ſterne determination,</l>
+               <l>Her bloud ſhot eyes rolyng wythin her head:</l>
+               <l>Her quyueryng cheekes flecked wyth deadly ſtayne,</l>
+               <l>Both pale and wan, to thynke on death to come,</l>
+               <l>Into the inward wardes of her palace</l>
+               <l>She ruſheth in: and clam vp as beſtraught</l>
+               <l>The buryal ſtacke: and drewe the Troian ſweard</l>
+               <l>Her gyft ſometyme, but ment to no ſuche vſe.</l>
+               <l>Where when ſhe ſaw hys weede, and wel knowen bed,</l>
+               <l>Wepyng a whyle, in ſtudy gan ſhe ſtay,</l>
+               <l>Fell on the bedde, and theſe laſt wordes ſhe ſayd.</l>
+               <l>Swete ſpoyles, whyles God and deſteny dyd permytte,</l>
+               <l>Receyue thys ſpirit, and ryd me of theſe cares.</l>
+               <l>I lyued and ranue the courſe, fortune dyd graunt,</l>
+               <pb facs="tcp:183936:17"/>
+               <l>And vnder earth my great goſt now ſhall wende</l>
+               <l>A goodly towne I buylte, and ſaw my walles:</l>
+               <l>Happy, alas to happy, if theſe coſtes</l>
+               <l>The Troian ſhyppes had neuer touched aye.</l>
+            </lg>
+            <lg>
+               <l>Thys ſayd, ſhe layd her mouth cloſe to the bed:</l>
+               <l>Why then (quoth ſhe) vnwroken ſhal we dye?</l>
+               <l>But let vs dye for thus, and in thys ſorte</l>
+               <l>It lyketh vs to ſeeke the ſhadowes darke.</l>
+               <l>And from the ſeas the cruell Troian eyes</l>
+               <l>Shall well decerne thys flame, and take wyth hym</l>
+               <l>Eke theſe vnlucky tokens of my death.</l>
+               <l>As ſhe had ſayd, her damſell myght perceyue</l>
+               <l>Her wyth theſe wordes fal pereſed on the ſworde,</l>
+               <l>The bolyng bloud wyth gore and handes embrued.</l>
+               <l>The clamor rang vnto the pallace toppe,</l>
+               <l>The brute ranne throughout al thaſtoyned towne:</l>
+               <l>Wyth waylyng great, and womens lamentyng.</l>
+               <l>The roofes gan roare, the ayre reſound wyth playnt</l>
+               <l>As though Cartage, or auncient towne of Tyre</l>
+               <l>Wyth preaſe of entred enemyes ſwarmeo full:</l>
+               <l>Or when the rage of furyous flame doth take</l>
+               <l>The temples toppes, and manſions eke of men.</l>
+            </lg>
+            <lg>
+               <l>Her ſyſter Anne, ſpryteles for dread to heare</l>
+               <l>Thys fearefull ſturre, wyth nayles gan teare her face,</l>
+               <l>She ſmote her breaſt, and ruſſhed through the route:</l>
+               <l>And dyeng thus ſhe cleapes her by her name:</l>
+               <l>Syſter, for thys dyd you wyth craft me bouroe?</l>
+               <l>The ſtake, the flame, the auters breede they thys?</l>
+               <l>What ſhal I fyrſt complayne, forſaken wyght?</l>
+               <l>Lotheſt thou in death thy ſyſters felowſhyp?</l>
+               <l>Thou ſhould haue called me to lyke deſteny:</l>
+               <l>One wo, one ſworde, one houre mought ende vs bothe.</l>
+               <l>Thys funerall ſtake buylt I wyth theſe handes,</l>
+               <pb facs="tcp:183936:18"/>
+               <l>Or wyth thys voyce cleaped our natyue Gods</l>
+               <l>As cruel for to abſent me from thy death?</l>
+               <l>Dyſtroyed thou haſt (ſyſter) both thee and me,</l>
+               <l>Thy people eke, and prynces borne at Tyre,</l>
+               <l>Geue, here I ſhall wyth water waſhe her woundes:</l>
+               <l>And ſucke wyth mouthe her breath, if ought be left.</l>
+            </lg>
+            <lg>
+               <l>Thys ſayd, vnto the hyghe degrees ſhe mounted,</l>
+               <l>Embraſyng faſt her ſyſter nowe halfe dead:</l>
+               <l>Wyth waylefull playnt, whom in her lap ſhe layd</l>
+               <l>The blacke ſwarte geare wyping dry wyth her clothes.</l>
+               <l>But Dido ſtraue for to lyft vp agayne</l>
+               <l>Her heauy eyen, and hath no power thereto:</l>
+               <l>Deepe vnder her breſt, the fyxed wound doth gape.</l>
+               <l>Thryſe leanyng on her elbowe gan ſhe rayſe</l>
+               <l>Her ſelfe vpwarde: and thryſe ſhe ouerthrewe</l>
+               <l>Vpon the bedde: rangyng wyth wandryng eyes</l>
+               <l>The ſkyes for lyght: and wept when ſhe it found.</l>
+            </lg>
+            <lg>
+               <l>Almyghty Iuno hauyng ruthe by thys</l>
+               <l>Of her long paynes, and eke her lyngryng death,</l>
+               <l>From heauen ſhe ſent the Goddeſſe Iris downe,</l>
+               <l>The thrallyng ſpiryte, and ioynted lymmes to looſe.</l>
+               <l>For that neyther by lot of deſteny,</l>
+               <l>Nor yet by naturall death ſhe peryſhed:</l>
+               <l>But wretchedly before her fatal daye,</l>
+               <l>And kyndled wyth a ſodayne rage of flame:</l>
+               <l>Proſerpyne had not yet from her head berefte</l>
+               <l>The golden heare: nor iudged her to hell.</l>
+               <l>The dewye Iris thus wyth golden wynges,</l>
+               <l>A thouſand hues ſhewyng agaynſt the ſunne,</l>
+               <l>Amyd the ſkyes then dyd ſhe flye adowne:</l>
+               <l>On Didos heade, where as ſhe gan alyght,</l>
+               <l>Thys heare (quoth ſhe) to Pluto conſecrate.</l>
+               <l>Commaunded I bereue, and eke thy ſpirite vnlooſe</l>
+               <pb facs="tcp:183936:18"/>
+               <l>From thys body: and when ſhe had thus ſayd,</l>
+               <l>With her right hand ſhe cut the heare in twayne:</l>
+               <l>And therewyth al the naturall heate gan quenches</l>
+               <l>And into wynde the lyfe foorth wyth reſolue.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
